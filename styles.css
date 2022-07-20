@@ -1,0 +1,32 @@
+/*----------------------------------------------------------------------------
+    Mobile Design First / Fallback
+------------------------------------------------------------------------------*/
+
+/*-------------
+    Variables
+---------------*/
+:root {
+    /* Colors */
+    --light-coral: #EF767A;
+    --queen-blue: #456990;
+    --keppel: #49BEAA;
+    --md-aquamarine: #49DCB1;
+    --sunray: #EEB868;
+
+    /* Fonts */
+    --ff-title: 'Arvo', serif;
+    --ff-txt: 'Lato', sans-serif;
+}
+
+/* -------------------- 
+    General Styles
+---------------------*/
+*, ::before, ::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: var(--ff-txt);
+    font-size: 18px;
+}
