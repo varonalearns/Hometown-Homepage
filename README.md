@@ -1,7 +1,5 @@
 # Scrimba - Solo Project: Hometown Homepage
 
-This is a solution to the [Skilled e-learning landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/skilled-elearning-landing-page-S1ObDrZ8q). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
 This is my solution to the solo project *Hometown Homepage* for Module 2 of [The Frontend Developer Career Path on Scrimba](https://scrimba.com/learn/frontend)
 
 ## Table of contents
